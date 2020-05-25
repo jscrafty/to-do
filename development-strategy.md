@@ -8,7 +8,7 @@ This todo app should make you to focus on your tasks
 [prototype](https://projects.invisionapp.com/share/KEEEZJB2N#/screens/263411311_1_-_1_-_Todo_Screen)
 
 
-## Todo Backlog
+## Todo Backlog  - v1
 
 - [ ] User story #1: Create Tasks
 * As a user, I want to create tasks so I can remember to do things
