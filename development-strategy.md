@@ -46,13 +46,13 @@ css:
 js: we are going to make it possible to add text notes to each task.
 To do this, we ...
 
-`testCreateWithNotes() {
+` testCreateWithNotes() {
     { notes: ['note 1', 'note 2'] }")
     (2, task.notes.size());
     ("note 1", task.notes.get(0));
     ("note 2", task.notes.get(1));
-}
-`
+}`
+
 ---
 
 - [ ] User story #3: Save Notes
