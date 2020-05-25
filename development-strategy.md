@@ -44,7 +44,7 @@ css:
 // add unit test
 
 js: we are going to make it possible to add text notes to each task.
-To do this, we ..
+To do this, we ...
 
 `testCreateWithNotes() {
     { notes: ['note 1', 'note 2'] }")
@@ -68,7 +68,8 @@ css:
 // add unit test
 
 js: we are going to make it possible to save text notes to each task.
-To do this, we ..
+To do this, we ...
+
 ---
 
 - [ ] User story #4: Edit Notes
@@ -84,7 +85,8 @@ css:
 // add unit test
 
 js: we are going to make it possible to edit text notes to each task.
-To do this, we ..
+To do this, we ...
+
 ---
 
 - [ ] User story #5: Mark as Done
@@ -112,6 +114,7 @@ public void markAsDone() {
 public boolean isDone() {
     return done;
 }`
+
 ---
 
 - [ ] User story #6: Privacy
