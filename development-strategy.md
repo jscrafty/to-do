@@ -6,7 +6,7 @@ This todo app should make you to focus on your tasks
 
 * :warn: WARNING: do not follow the code here ...its just placeholder and its incorrect
 
-[wireframe]
+![Wireframe](https://user-images.githubusercontent.com/45841105/83390477-354eef00-a3f2-11ea-9c92-3d931119e435.png)
 [prototype](https://projects.invisionapp.com/share/KEEEZJB2N#/screens/263411311_1_-_1_-_Todo_Screen)
 
 
